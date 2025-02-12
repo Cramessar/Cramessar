@@ -35,7 +35,7 @@ I've worked across multiple IT disciplines, rising to senior leadership roles in
 ## 📬 Let's Connect
 - **GitHub:** [github.com/Cramessar](https://github.com/Cramessar)
 - **LinkedIn:** [linkedin.com/in/christopher-ramessar](https://www.linkedin.com/in/christopher-ramessar/)
-- **Email:** (Feel free to add your email if you'd like recruiters to reach you directly)
+- **Email:** (Ramessar40@gmail.com)
 
 📌 _Always open to exciting opportunities in IT leadership, software development, and innovation!_
 
