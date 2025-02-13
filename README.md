@@ -1,7 +1,8 @@
 # 🌟 Hey there, I'm Christopher Ramessar! 👋
 
 ## 🚀 About Me
-I'm a **tech enthusiast, problem-solver, and leader** with a passion for **innovation and technology**! Whether it's coding, IT management, or AI development, I thrive on **building impactful solutions**. From **software engineering** to **cloud security**, I love tackling challenges and turning ideas into reality. 💡🚀
+I'm a relentless problem-solver with a passion for technology, innovation, and leadership. From hands-on coding to senior IT management, I've built a diverse skill set that bridges technical expertise with strategic vision. Whether it's developing applications, leading teams, or optimizing infrastructure, I thrive on making impactful contributions.
+
 
 ---
 
@@ -27,11 +28,13 @@ I'm a **tech enthusiast, problem-solver, and leader** with a passion for **innov
 ---
 
 ## 🌟 Featured Projects
+
 ### 🔹 [📺 YouTube Monitor App](https://github.com/Cramessar)
 A **Java-based** application that keeps track of your favorite **YouTube channels**, notifies you of new uploads, and allows **one-click access** to videos. Features include:
-✅ API Key Management 🔑  
-✅ Dark-Themed UI 🌙  
-✅ Real-time Video Monitoring 🎥  
+
+- API Key Management 🔑  
+- Dark-Themed UI 🌙  
+- Real-time Video Monitoring 🎥  
 
 ### 🔹 [🧙‍♂️ D&D Companion Creator](https://github.com/Cramessar)
 A **Flask-powered** web app that generates unique **D&D characters** complete with dynamic **personalities, classes, and backstories**—all using **Crew.ai** magic! 🏰 🎭
@@ -44,7 +47,8 @@ A **machine learning model** utilizing **Naive Bayes, Logistic Regression, and R
 ---
 
 ## 🎯 Career & Experience
-I've navigated through **various IT disciplines**, from **software development** to **cloud security** and **senior leadership roles**. My expertise includes:
+I've worked across multiple IT disciplines, rising to senior leadership roles in networking, cloud security, and software development. My expertise includes:
+
 - 👨‍💻 Leading **tech teams & strategy**
 - 🤖 Building **AI-driven applications**
 - 🔐 Strengthening **security & compliance** in cloud environments
@@ -52,14 +56,20 @@ I've navigated through **various IT disciplines**, from **software development**
 ---
 
 ## 📬 Let's Connect!
-🔗 **GitHub:** [github.com/Cramessar](https://github.com/Cramessar)  
-💼 **LinkedIn:** [linkedin.com/in/christopher-ramessar](https://www.linkedin.com/in/christopher-ramessar/)  
-📧 **Email:** [Ramessar40@gmail.com](mailto:Ramessar40@gmail.com)  
+
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/Cramessar)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christopher-ramessar/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Ramessar40@gmail.com)
+
 
 📌 _Always open to exciting opportunities in **IT leadership, software development, and innovation**!_ 🚀✨
 
 ---
 
-![Christopher Ramessar](https://media.licdn.com/dms/image/v2/D4E22AQEHGUvNdWAIQQ/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1731538334407?e=1741219200&v=beta&t=YKp5HgEBix78uS_MsLUSAH-nmsnM-dL5aNvJxB-uTDQ)
+## 🏆 Achievements & Certifications  
 
-![CodeWars Stats](https://github.r2v.ch/codewars?user=cramessar&name=true&top_languages=true&stroke=%23b362ff&theme=gradient_dark_by_level)
+### 📜 Certification  
+<img src="https://media.licdn.com/dms/image/v2/D4E22AQEHGUvNdWAIQQ/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1731538334407?e=1741219200&v=beta&t=YKp5HgEBix78uS_MsLUSAH-nmsnM-dL5aNvJxB-uTDQ" alt="Christopher Ramessar" width="600" height="400">
+
+### 🏅 CodeWars Stats  
+<img src="https://github.r2v.ch/codewars?user=cramessar&name=true&top_languages=true&stroke=%23b362ff&theme=gradient_dark_by_level" alt="CodeWars Stats">
