@@ -16,36 +16,106 @@ I’m most energized when I’m designing APIs, automating workflows, and turnin
 
 ---
 
-## 🧰 Core Tech Stack
+## 🧰 Core Tech Stack & Skills
 
-### Languages
-- Python  
-- JavaScript / TypeScript  
-- Java  
-- C#  
+### 🖥️ Languages
+- **Python**, **JavaScript**, **TypeScript**
+- Java, C#
+- SQL
+- HTML, CSS
+- PHP (legacy / integration work)
 
-### Backend & APIs
-- Flask, FastAPI  
-- Node.js / Express  
-- PostgreSQL, SQLite  
-- Redis  
+---
 
-### Frontend
-- React  
-- Next.js  
-- Tailwind CSS  
+### 🔧 Backend & APIs
+- Flask, **FastAPI**
+- Node.js, Express.js
+- RESTful API design
+- Microservices & service orchestration
+- WebSockets, rate limiting, caching strategies
+- Swagger / OpenAPI, Postman
 
-### AI & Automation
-- Local LLMs (Ollama)  
-- Hugging Face  
-- Prompt orchestration & tooling  
-- AI-assisted workflows  
+---
 
-### DevOps & Systems
-- Docker & Docker Compose  
-- CI/CD fundamentals  
-- Infrastructure & application monitoring  
-- Cloud-native deployment patterns  
+### 🎨 Frontend
+- **React**, **Next.js**
+- Tailwind CSS
+- Bootstrap, jQuery (legacy systems)
+- Responsive UI design
+
+---
+
+### 🗄️ Databases & Data
+- **PostgreSQL**
+- Redis
+- SQLite
+- MongoDB
+- MySQL
+- Microsoft SQL Server
+- Data formats: JSON, YAML, XML, CSV, Protocol Buffers
+
+---
+
+### 🤖 AI / LLM Integration
+- **Local LLMs (Ollama)**
+- Hugging Face Transformers
+- OpenAI API
+- Prompt engineering
+- RAG pipelines & document indexing
+- Chatbot & assistant integration
+- Plugin-based AI architectures
+- Diffusers (image generation)
+- PyQt6 + Pygments for AI tooling UIs
+
+---
+
+### ☁️ Cloud & Infrastructure
+- **AWS**
+- Docker & Docker Compose
+- Terraform (infrastructure as code)
+- Nginx
+- Vercel, Netlify, Render
+
+---
+
+### 🔐 Authentication & Security
+- JWT
+- OAuth 2.0
+- Auth0
+- Firebase Auth
+- Okta
+- Secure API design & access control
+
+---
+
+### ⚙️ DevOps, CI/CD & Tooling
+- Git & GitHub
+- GitHub Actions
+- CI/CD pipelines
+- Jenkins
+- Infrastructure automation
+- Environment-based configuration
+- Release validation & rollback strategies
+
+---
+
+### 📈 Monitoring & Observability
+- Grafana
+- Prometheus
+- Nagios
+- ELK Stack
+- Metrics, logging, and alerting pipelines
+
+---
+
+### 🧠 Software Engineering Concepts
+- Clean architecture & separation of concerns
+- CRUD & domain-driven design
+- Performance tuning & latency reduction
+- Cloud-native deployment
+- Test-driven & iterative development
+- System reliability & uptime optimization
+
 
 ---
 
@@ -76,29 +146,6 @@ I’m most energized when I’m designing APIs, automating workflows, and turnin
 - Emphasis on privacy, control, and local inference  
 
 **Focus:** AI tooling, system architecture, performance trade-offs
-
----
-
-### 🧙 **D&D Companion Creator**
-AI-powered character generator built with Flask and Crew.ai.
-
-- Dynamic personalities, classes, and backstories  
-- Modular prompt design  
-- Creative AI applied to structured outputs  
-
-**Focus:** AI orchestration, prompt engineering
-
----
-
-### ✉️ **Spam Email Detection**
-Machine learning project using:
-- Naive Bayes  
-- Logistic Regression  
-- Random Forest  
-
-Applied to real email classification problems with feature analysis.
-
-**Focus:** ML fundamentals & applied data science
 
 ---
 
