@@ -1,167 +1,76 @@
-# 👋 Hey, I’m Christopher Ramessar
+<div align="center">
 
-**Senior Software Engineer | Full-Stack & Platform Engineering | AI Systems**
+# Christopher Ramessar
 
-I build production-grade software that lives at the intersection of **backend systems, modern web apps, and AI integration**. My background spans hands-on engineering and senior IT leadership, which means I care deeply about **reliability, maintainability, and real-world impact**—not just demos.
+### AI Engineer · LLM Applications & RAG · Backend & Platform Reliability
 
-I’m most energized when I’m designing APIs, automating workflows, and turning complex problems into clean, scalable systems.
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
----
+📍 Sayreville, NJ&nbsp; ·&nbsp; 🔗 [Portfolio](https://cramessar.github.io)&nbsp; ·&nbsp; [LinkedIn](https://www.linkedin.com/in/christopher-ramessar/)&nbsp; ·&nbsp; 📫 ramessar40@gmail.com
 
-## 🧠 What I Focus On
-- Building **scalable backend services & APIs**
-- Designing and shipping **full-stack web applications**
-- Integrating **AI / LLMs** into real products (local & cloud)
-- Systems thinking: performance, observability, and long-term maintainability
-
----
-
-## 🧰 Core Tech Stack & Skills
-
-### 🖥️ Languages
-- **Python**, **JavaScript**, **TypeScript**
-- Java, C#
-- SQL
-- HTML, CSS
-- PHP (legacy / integration work)
+</div>
 
 ---
 
-### 🔧 Backend & APIs
-- Flask, **FastAPI**
-- Node.js, Express.js
-- RESTful API design
-- Microservices & service orchestration
-- WebSockets, rate limiting, caching strategies
-- Swagger / OpenAPI, Postman
+I build and ship production AI-powered applications — LLM integration, RAG pipelines, and the backend and infrastructure that keep them reliable.
 
----
+Before I was building software, I spent ~9 years running production operations for high-availability financial platforms. So I think about systems the way you do *after* you've been on the other end of a 3 a.m. page: reliability, observability, and what happens when something breaks — not just whether the demo runs. That's the foundation I build AI systems on now.
 
-### 🎨 Frontend
-- **React**, **Next.js**
-- Tailwind CSS
-- Bootstrap, jQuery (legacy systems)
-- Responsive UI design
+## 🛠️ What I work on
 
----
-
-### 🗄️ Databases & Data
-- **PostgreSQL**
-- Redis
-- SQLite
-- MongoDB
-- MySQL
-- Microsoft SQL Server
-- Data formats: JSON, YAML, XML, CSV, Protocol Buffers
-
----
-
-### 🤖 AI / LLM Integration
-- **Local LLMs (Ollama)**
-- Hugging Face Transformers
-- OpenAI API
-- Prompt engineering
-- RAG pipelines & document indexing
-- Chatbot & assistant integration
-- Plugin-based AI architectures
-- Diffusers (image generation)
-- PyQt6 + Pygments for AI tooling UIs
-
----
-
-### ☁️ Cloud & Infrastructure
-- **AWS**
-- Docker & Docker Compose
-- Terraform (infrastructure as code)
-- Nginx
-- Vercel, Netlify, Render
-
----
-
-### 🔐 Authentication & Security
-- JWT
-- OAuth 2.0
-- Auth0
-- Firebase Auth
-- Okta
-- Secure API design & access control
-
----
-
-### ⚙️ DevOps, CI/CD & Tooling
-- Git & GitHub
-- GitHub Actions
-- CI/CD pipelines
-- Jenkins
-- Infrastructure automation
-- Environment-based configuration
-- Release validation & rollback strategies
-
----
-
-### 📈 Monitoring & Observability
-- Grafana
-- Prometheus
-- Nagios
-- ELK Stack
-- Metrics, logging, and alerting pipelines
-
----
-
-### 🧠 Software Engineering Concepts
-- Clean architecture & separation of concerns
-- CRUD & domain-driven design
-- Performance tuning & latency reduction
-- Cloud-native deployment
-- Test-driven & iterative development
-- System reliability & uptime optimization
-
-
----
+- Integrating LLMs into real products — local (**Ollama / vLLM**) and cloud (**OpenAI API**)
+- **RAG pipelines**: document ingestion, chunking, embeddings, vector search, retrieval
+- Backend services & APIs in **Python / FastAPI** and **Node**
+- Making it all deployable and observable — **Docker, AWS, CI/CD, monitoring**
 
 ## 🚀 Featured Projects
 
-### 🚗 **Car Pay Clear**
-**Transparent auto-loan and affordability calculator** designed to help users understand the *real* cost of a vehicle—before stepping into a dealership.
+### 🧠 LocalGPT — Privacy-First AI Document Intelligence
+*Chat with your own documents using locally hosted LLMs — nothing ever leaves your machine.*
 
-🔗 **Live Site:** https://car-pay-clear.vercel.app
+- **FastAPI toolserver** with a modular tool router, document ingestion (PDF/DOCX/TXT via `pdfplumber` & `PyMuPDF`), chunking, embedding generation, and **ChromaDB** vector storage
+- **Swappable inference** (Ollama / vLLM, OpenAI-compatible) and embedding backends, so models can be changed without rewriting the app
+- Full **Next.js + TypeScript** UI, including a live **GPU/CPU/RAM monitoring panel** — because a local AI tool you actually run should show you what it's doing to your machine
+- Entire stack comes up with a single `docker compose up`
 
-**Highlights**
-- Clean, responsive React UI  
-- Real-world financial modeling (payments, interest, affordability)  
-- Designed for clarity and user trust—not dark patterns  
-- Built as a real consumer-facing product, not a demo  
+`Python` · `FastAPI` · `Next.js` · `TypeScript` · `ChromaDB` · `Ollama / vLLM` · `Docker`
+→ **[View repo](https://github.com/Cramessar/local-gpt)**
 
-**Focus:** Full-stack development, UX clarity, financial logic
+### 🚗 Car Pay Clear — Honest Auto-Loan Affordability Tool · [live ↗](https://car-pay-clear.vercel.app)
+*Shows the true cost of a car — payments, interest, real affordability — before you're sitting across from a dealer.*
 
----
+- A **real, deployed product** people can use, not a portfolio demo
+- Built deliberately around clarity and trust — **no dark patterns**, no upsell tricks
+- Turns messy financial math into a clean, decision-ready interface
 
-### 🧠 **Local GPT Platform**
-**Local-first AI system** for running and experimenting with large language models without relying on external APIs.
+`React` · `JavaScript` · `Vercel`
+→ **[Open the live site](https://car-pay-clear.vercel.app)**
 
-**Highlights**
-- Runs LLMs locally via Ollama  
-- Modular architecture for swapping models and backends  
-- Designed with extensibility and performance in mind  
-- Emphasis on privacy, control, and local inference  
+## 🧰 Tech I reach for
 
-**Focus:** AI tooling, system architecture, performance trade-offs
+**AI / LLM** — LLM integration (OpenAI · Ollama · vLLM) · RAG · prompt engineering · ChromaDB · embeddings (MiniLM / SentenceTransformers) · Hugging Face Transformers
+**Backend** — Python · FastAPI · Flask · Node.js · Express · REST · WebSockets
+**Frontend** — TypeScript · React · Next.js · Tailwind CSS
+**Data** — PostgreSQL · Redis · MongoDB · SQLite
+**Infra & Reliability** — AWS · Docker · Terraform · Nginx · CI/CD (GitHub Actions) · Grafana · Prometheus · Loki
+**Languages** — Python · JavaScript · TypeScript · SQL · C# · Java
 
----
+## 📊 Background
 
-## 🧭 Career Snapshot
-- Senior-level experience across **software engineering, infrastructure, and security**
-- Strong background in **systems thinking and automation**
-- Comfortable owning projects end-to-end: architecture → implementation → iteration
+~9 years in **production operations & reliability** for financial SaaS platforms (300+ enterprise clients) — incident response, root-cause analysis, observability pipelines, and internal tooling (FastAPI / C# / Node) that kept operations running. I also hold the **AWS Certified Cloud Practitioner** certification and completed a software engineering program at **Coding Temple** (Backend Core · Frontend Core · Backend Specialist).
 
----
+## 💬 Currently
 
-## 📬 Connect With Me
-- GitHub: https://github.com/Cramessar  
-- LinkedIn: https://www.linkedin.com/in/christopher-ramessar/  
-- Email: mailto:Ramessar40@gmail.com  
+Building AI-powered tools and deepening hands-on LLM / RAG engineering. Open to **AI Engineer**, **AI Application Engineer**, and **Platform / Reliability** roles.
 
----
+<div align="center">
 
-### 🧩 CodeWars
-<img src="https://github.r2v.ch/codewars?user=cramessar&name=true&top_languages=true&stroke=%23b362ff&theme=gradient_dark_by_level" />
+[![Codewars](https://github.r2v.ch/codewars?user=cramessar&name=true&top_languages=true&stroke=%23b362ff&theme=gradient_dark_by_level)](https://www.codewars.com/users/cramessar)
+
+</div>
